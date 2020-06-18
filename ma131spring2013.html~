@@ -1,0 +1,102 @@
+<html>
+<head>
+<title>Will Cousins</title>
+<link href="includes/willcousins.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<table align="center">
+<tr>
+<td colspan=2 bgcolor=#CC0000 id=title><font color=#FFFFFF>&nbspWill Cousins</font></td>
+</tr>
+<tr>
+<td id=sitenav valign="top" bgcolor=#F7F7F7 style="padding: 20px 10px">
+<div id="sitenav">
+	<ul>
+		<li><a href="index.html">&nbspHome</a></li>
+		<li><a href="publications.html">&nbspPublications</a></li>
+		<li><a href="ma131spring2013.html">&nbspMA 131</a></li>
+		<li><a href="CV.html">&nbspC.V.</a></li>
+		<li><a href="contact.html">&nbspContact</a></li>
+	</ul>
+</div>
+</td>
+<td width=750 id=body>
+
+<h3>MA131-004: Calculus for Life and Management Sciences A</h3><br>
+
+<b>My Office:</b> Language and Computer Labs Building 208<br>
+<b>Office Hours:</b> Monday 2 PM - 3 PM, Wednesday 3 PM - 4 PM<br>
+<b>Free Tutoring Hours (SAS 2105):</b> Tuesday/Thursday 3:30 PM - 4:30PM<br><br>
+
+You can download the syllabus <a href="documents/syllabus_ma131_004.docx">here</a>
+
+<h3>Announcements</h3>
+
+<ul>
+	<li>HW #11 Due April 11</li>
+	<li>Quiz #4 in class April 11</li>
+	<li>HW #12 Due April 18</li>
+	<li>Test #4 in class April 18</li>
+	<li>Final Exam - Thursday, May 2, 6 PM - 9 PM</li>
+</ul>
+
+<hr>
+
+<h3>Homework</h3>
+
+HW 11: Due Thursday, April 11
+
+<ul>
+	<li>6.2 #2, 5, 6, 11, 17 , 20</li>
+	<li>6.3 #2, 8, 10, 12, 14, 18, 22, 26, 36, 38, 39, 40, 42, 47</li>
+	<li>Extra Credit: Do 6.2 #5, 6 for n=8, n=16, n=32 using Excel or another computer program</li>
+</ul>
+
+<a href="MA131/HW11Solutions.pdf">HW 11 Solutions</a><br>
+<a href="MA131/HW10Solutions.pdf">HW 10 Solutions</a><br>
+<a href="MA131/HW9Solutions.pdf">HW 9 Solutions</a><br>
+<a href="MA131/HW8Solutions.pdf">HW 8 Solutions</a><br>
+<a href="MA131/HW7Solutions.pdf">HW 7 Solutions</a><br>
+<a href="MA131/HW6Solutions.pdf">HW 6 Solutions</a><br>
+<a href="MA131/HW5Solutions.pdf">HW 5 Solutions</a><br>
+<a href="MA131/HW4Solutions.pdf">HW 4 Solutions</a><br>
+<a href="MA131/HW3Solutions.pdf">HW 3 Solutions</a><br>
+<a href="MA131/HW2Solutions.pdf">HW 2 Solutions</a><br>
+<a href="MA131/HW1Solutions.pdf">HW 1 Solutions</a>
+
+<hr>
+
+<h3>Tests</h3>
+
+Test 3 Solutions (<a href="MA131/Test3FormASolutions.pdf">Form A</a> <a href="MA131/Test3FormBSolutions.pdf">Form B</a>)<br>
+Test 2 Solutions (<a href="MA131/Test2FormASolutions.pdf">Form A</a> <a href="MA131/Test2FormBSolutions.pdf">Form B</a>)<br>
+Test 1 Solutions (<a href="MA131/Test1FormASolutions.pdf">Form A</a> <a href="MA131/Test1FormBSolutions.pdf">Form B</a>)<br>
+
+<hr>
+
+<h3>Quizzes</h3>
+
+<a href="MA131/Quiz3Solutions.pdf">Quiz 3 Solutions</a><br>
+<a href="MA131/Quiz2Solutions.pdf">Quiz 2 Solutions</a><br>
+<a href="MA131/Quiz1Solutions.pdf">Quiz 1 Solutions</a>
+
+<hr>
+
+<h3>Other Documents</h3>
+
+<a href="MA131/FTC_MA131_FilledOut.pdf">Fundamental Theorem of Calculus Worksheet (April 4)</a><br>
+<a href="MA131/test3DerivPractice.pdf">Test 3 Derivative Practice (Mar 21)</a><br>
+<a href="MA131/exponentialWorksheetCompleted.pdf">Exponential Worksheet (Mar 12)</a><br>
+<a href="MA131/optimization.pdf">Optimization Worksheet (Feb 14)</a><br>
+<a href="MA131/DerivativesAndGraphs_Feb12.pdf">Derivatives and Graphs (Feb 12)</a><br>
+<a href="MA131/ExtraDerivativePractice.pdf">Extra Derivative Practice</a><br>
+<a href="MA131/Jan22_ExtraCreditSolutions.pdf">Derivative Extra Credit Solutions</a><br>
+<a href="MA131/ma131_22Jan.pdf">January 22 Handout</a><br>
+<a href="MA131/ma131day2Blank.pdf">January 10 Handout</a>
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>

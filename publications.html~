@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>Will Cousins</title>
+<link href="includes/willcousins.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<table align="center">
+<tr>
+<td colspan=2 bgcolor=#993333 id=title><font color=#FFFFFF>&nbspWill Cousins</font></td>
+</tr>
+<tr>
+<td id=sitenav valign="top" bgcolor=#F7F7F7 style="padding: 20px 10px">
+<div id="sitenav">
+	<ul>
+		<li><a href="index.html">&nbspHome</a></li>
+		<li><a href="publications.html">&nbspPublications</a></li>
+		<li><a href="teaching.html">&nbspTeaching</a></li>
+		<li><a href="CV.html">&nbspC.V.</a></li>
+		<li><a href="contact.html">&nbspContact</a></li>
+	</ul>
+</div>
+</td>
+<td width=750 id=body>
+
+<ol>
+	<li id=pub>W. Cousins, P.A. Gremaud.<i> Impedance Boundary Conditions for General Transient Hemodynamics</i>. Submitted(Aug 2013)--Int. J. Numer. Meth. Biomed. Engn.<a href="documents/impedanceBC.pdf">PDF</a></li>
+	<li id=pub>W. Cousins, P.A. Gremaud, D.M. Tartakovsky.<i>A New Physiological Boundary Condition for Hemodynamics</i>. SIAM J. Appl. Math., 73(3), 2013.<a href="documents/tree_laplace.pdf">PDF</a></li>
+	<li id=pub>W. Cousins, P.A. Gremaud. <i>Boundary Conditions for Hemodynamics: The Structured Tree Revisited</i>. Journal of Computational Physics, 231(18), 2012.</li>
+	<li id=pub>K. Anderson, A. Burt, W. Cousins, B. Hancock, D. Strong. <i>A Sinkhorn-Knopp Fixed Point Problem</i>. Pi Mu Epsilon Journal, 13(5), 2011.</li>
+</ol>
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>
